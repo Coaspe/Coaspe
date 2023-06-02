@@ -1,5 +1,5 @@
 Hello! 👋🏼
-- 🇰🇷 I am a Korean. 
+- 🇰🇷
 - 💻 Bachelor of Science in Computer Engineering. 
 - Now learning Flutter and Dart!
 - [LeetCode](https://leetcode.com/Coaspe/), [BaekJoon](https://www.acmicpc.net/user/aspalt85)
